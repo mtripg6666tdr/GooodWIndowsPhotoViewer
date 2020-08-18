@@ -1,0 +1,2 @@
+# GooodWindowsPhotoViewer
+Windowsに眠っているWindowsフォトビューワーを呼び出すためのツール
